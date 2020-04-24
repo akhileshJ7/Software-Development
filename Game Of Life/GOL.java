@@ -13,7 +13,7 @@ import java.util.Scanner;
  * a battle simulator game.
  * @version 2018-10-22
  */
-public class Lab7 {
+public class GOL {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         intro();
